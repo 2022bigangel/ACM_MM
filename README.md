@@ -1,6 +1,3 @@
 # ACM_MM
-Create a python env by msa.yml
+Please check the code in https://drive.google.com/file/d/1MEbl97XTCZnTpkHFTBxjrnJ4c_1KaFxD/view?usp=sharing.
 
-Pretrain adapters by python main-fusion-adapter.py
-
-Fine-tune conki by python main_fusion_adapter_ft_supcl.py
